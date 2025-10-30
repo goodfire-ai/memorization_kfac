@@ -2,7 +2,7 @@
 
 Two commands to reproduce the K-FAC treatment used in our paper.
 
-- **Paper:** [From Memorization to Reasoning in the Spectrum of Loss Curvature](https://openreview.net/pdf?id=MzRDxPUmgK)
+- **Paper:** [From Memorization to Reasoning in the Spectrum of Loss Curvature](https://arxiv.org/abs/2510.24256)
 - **Scope:** generate K-FAC factors A, G, compute KFAC edit run and eval.
 
 ## TL;DR
